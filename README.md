@@ -78,7 +78,7 @@ Per últim, l'atac combinatori consisteix a combinar paraules del diccionari per
 
 ## Descripció de l'activitat
 
-Teniu a la Comuna una màquina OVA que conté la màquina virtual (Ubuntu Server) de la qual necessitem saber les contrasenyes dels usuaris que hi poden iniciar sessió. Per aconseguir aquest objectiu, caldrà fer un atac en dues fases:
+En aquest [enllaç](https://drive.google.com/file/d/1G0tMJxJd1roCZCAldBbEuSk5tHWKRuPT/view?usp=sharing) es pot descarregar un arxiu .zip amb la OVA que conté la màquina virtual (Ubuntu Server) de la qual necessitem saber les contrasenyes dels usuaris que hi poden iniciar sessió. Per aconseguir aquest objectiu, caldrà fer un atac en dues fases:
 
 1. Aconseguir accés a la màquina virtual com administrador (root) per poder descarregar-nos els arxius necessaris per poder fer l'atac: `/etc/shadow` i `/etc/passwd`.
 
