@@ -35,6 +35,15 @@ RA1. Aplica mesures de seguretat passiva en sistemes informàtics descrivint car
 
 Seguretat lògica: gestió de contrasenyes.
 
+### Semàfor ús de la IA
+
+🟠 Aquesta activitat permet un ús parcial o restringit.
+
+Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
+
+Condicions: Cal processar, entendre i validar sempre els resultats rebuts. Està totalment prohibit copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada per al lliurament final sense treball propi ni anàlisi crítica.
+
+
 ## Introducció
 
 Abans de començar, cal repassar el format de contrasenyes en Linux i presentar l'eina "John the Ripper", que s'utilitzarà per fer l'atac de "cracking" de contrasenyes.
