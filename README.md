@@ -21,7 +21,9 @@ Analitzar la seguretat de les contrasenyes d'un sistema Linux, comprovant la rob
 ### Competències treballades
 
 j) Elaborar documentació tècnica i administrativa del sistema, complint les normes i reglamentació del sector, per al seu manteniment i l’assistència al client.
+
 l) Assessorar i assistir al client, canalitzant a un nivell superior els supòsits que ho requereixin per trobar solucions adequades a les necessitats d’aquest.
+
 n) Mantenir un esperit constant d’innovació i actualització en l’àmbit del sector informàtic.
 
 ### Resultats d'aprenentatge i criteris d'avaluació
@@ -29,6 +31,7 @@ n) Mantenir un esperit constant d’innovació i actualització en l’àmbit de
 RA1. Aplica mesures de seguretat passiva en sistemes informàtics descrivint característiques d'entorns i relacionant-les amb les seves necessitats.
 
 1.1 Valora la importància de mantenir la informació segura.
+
 1.8 Valora la importància d'establir una política de contrasenyes.
 
 ### Continguts
