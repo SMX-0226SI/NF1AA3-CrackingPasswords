@@ -2,7 +2,7 @@
 
 John the Ripper és una de les eines d'auditoria de contrasenyes i Hacking Ètic més utilitzades. En entorns de proves de penetració o auditories internes, permet avaluar la robustesa de les claus d'accés utilitzant atacs de diccionari o força bruta sobre *hashes* extrets de sistemes destinataris.
 
-## Preparació de l'Entorn a Kali Linux**
+## Preparació de l'Entorn a Kali Linux
 
 L'entorn de proves serà una màquina amb Kali Linux.
 
