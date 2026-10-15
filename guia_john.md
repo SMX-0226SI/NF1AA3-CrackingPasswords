@@ -68,4 +68,4 @@ Un cop finalitzat el procés (o per revisar els encerts obtinguts fins al moment
 john --show passwords.txt
 ```
 
-Les contrasenyes desxifrades s'emmagatzemen automàticament a l'arxiu d'historial de l'eina (\~/.john/john.pot), evitant haver de tornar a calcular hashes ja resolts en el futur.
+Les contrasenyes desxifrades s'emmagatzemen automàticament a l'arxiu d'historial de l'eina (~/.john/john.pot), evitant haver de tornar a calcular hashes ja resolts en el futur.
