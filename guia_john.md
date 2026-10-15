@@ -51,10 +51,10 @@ john --wordlist=/usr/share/wordlists/rockyou.txt passwords.txt
 Quan es vol avaluar la resistència del sistema davant de claus d'accés tipus PIN o patrons només numèrics (com dates o codis de seguretat), la millor opció és limitar l'espai de cerca a caràcters numèrics (0-9) i definir una longitud mínima i màxima, en aquest cas 4 a 8 dígits. Provarà sistemàticament totes les combinacions des de 0000 fins a 99999999.  
 
 ```Bash  
-john --incremental=Digits \--min-len=4 \--max-len=8 passwords.txt
+john --incremental=Digits --min-len=4 --max-len=8 passwords.txt
 ```
 
->**Complexitat computacional:** L'espai de cerca total per a aquesta configuració és de $10^4 \+ 10^5 \+ 10^6 \+ 10^7 \+ 10^8 \= 111.100.000$ combinacions possibles, un volum que qualsevol CPU o GPU moderna resol en pocs segons o minuts segons l'algorisme de xifratge.
+>**Complexitat computacional:** L'espai de cerca total per a aquesta configuració és de $$ 10^4 + 10^5 + 10^6 + 10^7 + 10^8 = 111.100.000 $$ combinacions possibles, un volum que qualsevol CPU o GPU moderna resol en pocs segons o minuts segons l'algorisme de xifratge.
 
 ## Gestió i Consulta de Resultats
 
@@ -62,7 +62,7 @@ Mentrestant l'eina s'executa, es pot prémer qualsevol tecla al terminal per veu
 
 ### Visualització de les contrasenyes trobades
 
-Un cop finalitzat el procés (o per revisar els encerts obtinguts fins al moment), s'utilitza el paràmetre `\--show`:
+Un cop finalitzat el procés (o per revisar els encerts obtinguts fins al moment), s'utilitza el paràmetre `--show`:
 
 ```Bash  
 john --show passwords.txt
